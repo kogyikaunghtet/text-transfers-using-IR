@@ -3,6 +3,8 @@ Transmit and Receive Text Over IR Signals with an Arduino
 
 ![IR_Keyboard](IR_Keyboard.jpg)
 
+![Circuit_Diagram](ir_circuit.jpg)
+
 ## Download require libraries
     git clone https://github.com/Arduino-IRremote/Arduino-IRremote
     
@@ -12,9 +14,9 @@ Transmit and Receive Text Over IR Signals with an Arduino
     
 ## Library Installation
 
-* Open Arduino IDE (Arduino Software) ...
+* Open Arduino IDE (Arduino Software)
 
-* Sketch > Include Library > Add .Zip Library >
+* Sketch > Include Library > Add .Zip Library
 
 * and choose library zip file.
 
